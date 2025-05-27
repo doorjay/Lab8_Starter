@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Dorje-and-Patrick",
     "description": "We've got Thanksgiving Recipes!",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "scope": "./",
     "display": "standalone",
     "background_color": "#ffffff",
