@@ -5,7 +5,7 @@
 -   Dorje
 -   Patrick
 
-## [Github Page](www.google.com)
+## [Github Page](https://doorjay.github.io/Lab8_Starter/)
 
 ## How are graceful degradation and service workers related?
 
@@ -14,3 +14,5 @@ In this application, when the network is not availble, service workers allow the
 ## pwa image
 
 ![screenshot](./pwa.png)
+
+##
